@@ -34,6 +34,7 @@ A tool for end-to-end testing of Asciidoctor backends based on comparing of text
   s.add_runtime_dependency 'htmlbeautifier', '~> 1.0'
   s.add_runtime_dependency 'minitest', '~> 5.4'
   s.add_runtime_dependency 'nokogiri', '~> 1.8.0'
+  s.add_runtime_dependency 'to_regexp', '~> 0.2'
 
   # development
   s.add_development_dependency 'bundler', '~> 1.6'
